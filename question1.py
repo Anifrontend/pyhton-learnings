@@ -4,10 +4,10 @@
 
 #Use a for loop to print each language, prefixed with "I love ".
 
-# languages = ["Python", "JavaScript" , "Java" , "C++"]
+languages = ["Python", "JavaScript" , "Java" , "C++"]
 
-# for lang in languages:
-#     print("I love ", lang)
+for lang in languages:
+    print("I love ", lang)
  
  #for loop with range():
 
